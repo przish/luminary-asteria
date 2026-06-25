@@ -22,6 +22,45 @@ Your challenge is to develop an AI-powered study companion that provides accessi
 
 ---
 
+# Setup Instructions
+
+Lagi is built using **Expo + React Native**. Follow the steps below to run the project locally.
+
+## Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm or yarn
+- Expo CLI
+- Android Studio (for Android emulator) or Xcode (for iOS development)
+
+---
+
+## Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/przish/luminary-asteria.git
+```
+
+2. Navigate to the project directory
+```bash
+cd luminary-asteria
+```
+
+3. Install packages/dependencies
+```bash
+npm install
+```
+
+4. Run
+```
+npx expo start
+```
+
+---
+
 # Key Features
 
 ## Adaptive Assessment Engine
